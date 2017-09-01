@@ -8,7 +8,12 @@
 </head>
 <body>
 <<<<<<< master
+<<<<<<< HEAD
 <h1>안뇽하하하  버전 1</h1>
+=======
+<h1>안뇽하하하  fdsf</h1>
+<h1>버전2 wnal</h1>
+
 
 <h1>안뇽하하하  wnal jsp</h1>
 </body>
